@@ -8,8 +8,9 @@ Access PixMiller with
 Bulk Background Removal Tool
 
 Try PixMiller Desktop App to remove image backgrounds in bulk. We offer a version that runs on Windows.
-for Windows (59.1 MB)
+
 [Click to Download](https://www.pixmiller.com/tools/)
 
 More info:
+
 Click to [Remove Image Background Online](https://www.pixmiller.com/)
