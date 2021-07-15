@@ -11,7 +11,7 @@ More info:
 
 Click to [Remove Image Background Online](https://pixmiller.com/?github)
 
-You can also ** Remove Image Background Online **
+You can also *Remove Background Online*
 ---
 
 Click to 
