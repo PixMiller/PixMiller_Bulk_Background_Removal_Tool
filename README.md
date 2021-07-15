@@ -23,3 +23,7 @@ Click to
 [背景の削除](https://pixmiller.com/ja/?github)
 
 [Удалить фон](https://pixmiller.com/ru/?github)
+
+
+
+![pixmiller-image-bg-background-removal-preview](https://user-images.githubusercontent.com/87468879/125753064-93244340-d6ae-42f3-833a-4f9b6774dcab.gif)
