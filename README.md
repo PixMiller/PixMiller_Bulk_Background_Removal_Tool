@@ -14,6 +14,10 @@ Click to [Remove Image Background Online](https://pixmiller.com/?github)
 You can also ** Remove Image Background Online **
 ---
 
+Click to 
+
+[Remove Image Background Online](https://pixmiller.com/?github)
+
 [線上去背](https://pixmiller.com/zh-hant/?github)
 
 [背景の削除](https://pixmiller.com/ja/?github)
